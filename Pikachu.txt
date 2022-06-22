@@ -1,1 +1,2 @@
 Nom : Pikachu
+Numéro : 025
